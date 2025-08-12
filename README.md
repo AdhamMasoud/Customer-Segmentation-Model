@@ -26,3 +26,21 @@ The model is built and tested on the Superstore Dataset from the Kaggle.
 The dataset contains detailed transactional data including invoice date, customer ID, and purchase amount.
 
 Link to dataset: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download)
+
+---
+## Import libraries and load the dataset
+
+---
+## Preprocess the data
+
+---
+## Creating boxplots for 'Quantity' and 'Sales' to identify outliers
+
+---
+## Removeing outliers
+
+---
+##
+
+
+
