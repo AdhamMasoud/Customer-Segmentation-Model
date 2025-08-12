@@ -43,7 +43,34 @@ Link to dataset: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 ## Removeing outliers
 ![My Local Image](images/Capture6.PNG)
 ---
-##
+## Create boxplots after removing outliers
+![My Local Image](images/newplot1.png)
+---
+## Creating RFM
+![My Local Image](images/Capture7.PNG)
+![My Local Image](images/Capture8.PNG)
+---
+## Plot RFM distributions
+![My Local Image](images/Capture9.PNG)
+![My Local Image](images/output.png)
+---
+## Standardize the data
+![My Local Image](images/Capture10.PNG)
+---
+## Fit KMeans clustering for a range of k values and calculate inertia and silhouette scores
+![My Local Image](images/Capture11.PNG)
+![My Local Image](images/output1.png)
+---
+## Fit KMeans with the optimal number of clusters (k=3 in this case)
+![My Local Image](images/Capture12.PNG)
+---
+## Assigning cluster names
+![My Local Image](images/Capture13.PNG)
+![My Local Image](images/Capture14.PNG)
+---
+## Creating a 3D scatter plot for RFM segmentation
+![My Local Image](images/Capture15.PNG)
+![My Local Image](images/newplot3.png)
 
 
 
