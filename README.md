@@ -38,11 +38,12 @@ Link to dataset: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 ![My Local Image](images/Capture3.PNG)
 ![My Local Image](images/newplot.png)
 ---
-## Removeing outliers
-
+## Removing outliers
+![My Local Image](images/Capture16.PNG)
+![My Local Image](images/Capture17.PNG)
 ---
 ## Create boxplots after removing outliers
-![My Local Image](images/newplot1.png)
+![My Local Image](images/newplot4.png)
 ---
 ## Creating RFM
 ![My Local Image](images/Capture7.PNG)
