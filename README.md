@@ -71,5 +71,55 @@ Link to dataset: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 ![My Local Image](images/Capture15.PNG)
 ![My Local Image](images/newplot3.png)
 
+---
+## Summary
+
+## 1. Platinum Customers 🏆
+
+Behavior: Extremely loyal, frequent purchases, and the highest total spend.
+
+Loyalty: Very high — short recency, high frequency, high monetary value.
+
+Engagement Strategy:
+
+Exclusive early access to new products.
+
+VIP loyalty programs.
+
+Personalized recommendations and premium support.
+
+## 2. Gold Customers 🥇
+
+Behavior: Regular buyers with good spending habits, but slightly less frequent or lower spend than Platinum.
+
+Loyalty: High — moderate recency, good frequency, high monetary value.
+
+Engagement Strategy:
+
+Targeted upselling and cross-selling campaigns.
+
+Seasonal discounts or bundle offers to encourage more frequent purchases.
+
+Invitations to special promotions to encourage transition to Platinum tier.
+
+## 3. Silver Customers 🥈
+
+Behavior: Occasional buyers, moderate spend, may need reactivation campaigns.
+
+Loyalty: Medium — longer recency, lower frequency, moderate monetary value.
+
+Engagement Strategy:
+
+Email reminders and personalized discount codes.
+
+Incentives like free shipping to encourage more purchases.
+
+Customer surveys to understand potential barriers to buying
+
+---
+## Reference
+
+Unlocking Customer Segmentation Insights — Combining RFM Analysis with K-Means Clustering
+[Customer Segmentation Insights](https://ishla.medium.com/unlocking-customer-segmentation-insights-combining-rfm-analysis-with-k-means-clustering-45bdc6bf8555)  
 
 
