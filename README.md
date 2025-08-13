@@ -37,11 +37,9 @@ Link to dataset: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 ## Creating boxplots for 'Quantity' and 'Sales' to identify outliers
 ![My Local Image](images/Capture3.PNG)
 ![My Local Image](images/newplot.png)
-![My Local Image](images/Capture4.PNG)
-![My Local Image](images/Capture5.PNG)
 ---
 ## Removeing outliers
-![My Local Image](images/Capture6.PNG)
+
 ---
 ## Create boxplots after removing outliers
 ![My Local Image](images/newplot1.png)
